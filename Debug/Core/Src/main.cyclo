@@ -1,0 +1,10 @@
+../Core/Src/main.c:90:5:_write	1
+../Core/Src/main.c:96:7:read_adc	3
+../Core/Src/main.c:119:7:resistencia_media	2
+../Core/Src/main.c:144:7:medir_resistencia_media	2
+../Core/Src/main.c:155:9:resistencia_pwm	7
+../Core/Src/main.c:184:6:criar_lut	3
+../Core/Src/main.c:285:6:SystemClock_Config	4
+../Core/Src/main.c:223:5:main	7
+../Core/Src/main.c:496:6:HAL_UARTEx_RxEventCallback	7
+../Core/Src/main.c:540:6:Error_Handler	1

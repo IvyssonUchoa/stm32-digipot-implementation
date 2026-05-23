@@ -1,0 +1,10 @@
+../Core/Src/main.c:90:5:_write	8	static
+../Core/Src/main.c:96:7:read_adc	8	static
+../Core/Src/main.c:119:7:resistencia_media	24	static
+../Core/Src/main.c:144:7:medir_resistencia_media	16	static
+../Core/Src/main.c:155:9:resistencia_pwm	32	static
+../Core/Src/main.c:184:6:criar_lut	24	static
+../Core/Src/main.c:285:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:223:5:main	80	static,ignoring_inline_asm
+../Core/Src/main.c:496:6:HAL_UARTEx_RxEventCallback	40	static
+../Core/Src/main.c:540:6:Error_Handler	0	static,ignoring_inline_asm
